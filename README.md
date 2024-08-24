@@ -5,9 +5,9 @@
  <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan2214&label=Profile%20views&color=0e75b6&style=flat" alt="arslan2214" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Data Structure & Algorithms**
 
-- 💬 Ask me about **HTML, CSS, JavaScript & React**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, MERN Stack, Next Js**
 
 - 📫 How to reach me **mycomputer2214@gmail.com**
  <br> <br>
