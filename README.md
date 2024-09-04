@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://ars.dev)
 <h1 align="center">Hi there! 👋, I'm ARslan Ahmad</h1>
-<h3 align="center">🚀 Passionate Software Developer | 💻 Mastering HTML, CSS, JavaScript, TypeScript, React, MERN & Next js | 🛠️ Building a Solid Foundation in Problem Solving also preparing DSA | 👥 Open to Collaboration and Learning</h3>
+<h3 align="center">🚀 Passionate Software Developer | 💻 Mastering HTML, CSS, JavaScript, TypeScript, React, MERN & Next js | 🛠️ At the moment building a Solid Foundation in Problem Solving along with DSA in Python | </br> 👥 Open to Collaboration and <strong>Learning</strong></h3>
 <img align="right" alt="coding" width="450" src="https://i.imgur.com/GezCVzO.gif" >
  <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan2214&label=Profile%20views&color=0e75b6&style=flat" alt="arslan2214" /> </p>
