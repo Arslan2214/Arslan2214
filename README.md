@@ -64,8 +64,19 @@
  <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Arslan2214&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Arslan2214&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arslan2214&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Arslan2214&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Arslan2214&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Arslan2214&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Arslan2214&theme=onedark" />
 </div>
+
+
+##
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" style="vertical-align: middle; margin-right: 10px;">
+  <span style="vertical-align: middle;">
+    <em><b>I genuinely enjoy connecting with new people</b>, so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> 
+    <a href="https://linkedin.com/in/arslan-ahmad-dev">Let's talk :)</a></em>
+  </span>
+</p>
+
