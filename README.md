@@ -70,6 +70,8 @@
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Arslan2214&theme=onedark" />
 </div>
 
+##
+![Snake animation](https://raw.githubusercontent.com/Arslan2214/Arslan2214/output/github-contribution-grid-snake-dark.svg)
 
 ##
 <p align="center">
