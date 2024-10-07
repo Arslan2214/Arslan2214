@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://fb.com/ars.ahm.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-08C2FF?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1A77B1?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/ARslan_/" target="_blank">
     <img src="https://img.shields.io/badge/Leetcode-222222?style=for-the-badge&logo=leetcode&logoColor=white" />
@@ -48,7 +48,7 @@
  <br>
     <img src="https://skillicons.dev/icons?i=git,github,gitlab," />
  <br>
-    <img src="https://skillicons.dev/icons?i=cpp,c,php,python,md," />
+    <img src="https://skillicons.dev/icons?i=cpp,c,php,python,htmx," />
  <br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,md,bootstrap,tailwind," />
  <br>
@@ -71,9 +71,11 @@
 </div>
 
 ##
-![Snake animation](https://raw.githubusercontent.com/Arslan2214/Arslan2214/output/github-contribution-grid-snake-dark.svg)
 
-##
+
+[comment]: <![Snake animation](https://raw.githubusercontent.com/Arslan2214/Arslan2214/output/github-contribution-grid-snake-dark.svg)> (Snake Animation)
+
+
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" style="vertical-align: middle; margin-right: 10px;">
   <span style="vertical-align: middle;">
