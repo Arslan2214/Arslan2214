@@ -76,6 +76,7 @@
 [comment]: <![Snake animation](https://raw.githubusercontent.com/Arslan2214/Arslan2214/output/github-contribution-grid-snake-dark.svg)> (Snake Animation)
 
 
+[comment]: <> (Ending section)
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" style="vertical-align: middle; margin-right: 10px;">
   <span style="vertical-align: middle;">
