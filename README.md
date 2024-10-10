@@ -72,9 +72,12 @@
 
 ##
 
-
-[comment]: <![Snake animation](https://raw.githubusercontent.com/Arslan2214/Arslan2214/output/github-contribution-grid-snake-dark.svg)> (Snake Animation)
-
+<!-- 
+## My Rewards 
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Arslan2214&theme=onedark&no-bg=true" alt="Trophies">
+</div>
+-->
 
 [comment]: <> (Ending section)
 <p align="center">
