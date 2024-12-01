@@ -1,5 +1,5 @@
 [comment]: <> (Banner Image)
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://ars.dev)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/arslan-ahm)
 
 [comment]: <> (Animated Intro.)
 <h1 align="center">
@@ -13,7 +13,7 @@
 <img align="right" alt="coding" width="450" src="https://i.imgur.com/GezCVzO.gif" >
  <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan2214&label=Profile%20views&color=0e75b6&style=flat" alt="arslan2214" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan-ahm&label=Profile%20views&color=0e75b6&style=flat" alt="arslan-ahm" /> </p>
 
 - 🌱 I’m currently learning **Data Structure & Algorithms**
 
@@ -78,10 +78,10 @@ Leetcode window
 -->
 
 <div align="center">
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Arslan2214&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Arslan2214&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Arslan2214&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Arslan2214&theme=onedark" />
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=arslan-ahm&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arslan-ahm&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=arslan-ahm&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=arslan-ahm&theme=onedark" />
 </div>
 
 ##
